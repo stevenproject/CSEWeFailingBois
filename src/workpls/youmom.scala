@@ -1,5 +1,7 @@
 package workpls
 
 object youmom {
-  def
+  def main(args: Array[String]): Unit = {
+     println("youmom")
+  }
 }

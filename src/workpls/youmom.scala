@@ -1,0 +1,5 @@
+package workpls
+
+object youmom {
+
+}
